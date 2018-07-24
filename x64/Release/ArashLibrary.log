@@ -1,0 +1,20 @@
+﻿  ArashMain.cpp
+D:\Program Files\PCL 1.8.1\include\pcl-1.8\pcl/visualization/impl/point_cloud_color_handlers.hpp(549): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  D:\Program Files\PCL 1.8.1\include\pcl-1.8\pcl/visualization/impl/point_cloud_color_handlers.hpp(525): note: while compiling class template member function 'bool pcl::visualization::PointCloudColorHandlerLabelField<pcl::PointXYZL>::getColor(vtkSmartPointer<vtkDataArray> &) const'
+  D:\Program Files\PCL 1.8.1\include\pcl-1.8\pcl/visualization/pcl_visualizer.h(907): note: see reference to class template instantiation 'pcl::visualization::PointCloudColorHandlerLabelField<pcl::PointXYZL>' being compiled
+  D:\Program Files\PCL 1.8.1\3rdParty\Boost\include\boost-1_64\boost/bind/placeholders.hpp(54): note: see reference to class template instantiation 'boost::arg<9>' being compiled
+  D:\Program Files\PCL 1.8.1\3rdParty\Boost\include\boost-1_64\boost/bind/placeholders.hpp(53): note: see reference to class template instantiation 'boost::arg<8>' being compiled
+  D:\Program Files\PCL 1.8.1\3rdParty\Boost\include\boost-1_64\boost/bind/placeholders.hpp(52): note: see reference to class template instantiation 'boost::arg<7>' being compiled
+  D:\Program Files\PCL 1.8.1\3rdParty\Boost\include\boost-1_64\boost/bind/placeholders.hpp(51): note: see reference to class template instantiation 'boost::arg<6>' being compiled
+  D:\Program Files\PCL 1.8.1\3rdParty\Boost\include\boost-1_64\boost/bind/placeholders.hpp(50): note: see reference to class template instantiation 'boost::arg<5>' being compiled
+  D:\Program Files\PCL 1.8.1\3rdParty\Boost\include\boost-1_64\boost/bind/placeholders.hpp(49): note: see reference to class template instantiation 'boost::arg<4>' being compiled
+  D:\Program Files\PCL 1.8.1\3rdParty\Boost\include\boost-1_64\boost/bind/placeholders.hpp(48): note: see reference to class template instantiation 'boost::arg<3>' being compiled
+  D:\Program Files\PCL 1.8.1\3rdParty\Boost\include\boost-1_64\boost/bind/placeholders.hpp(47): note: see reference to class template instantiation 'boost::arg<2>' being compiled
+  D:\Program Files\PCL 1.8.1\3rdParty\Boost\include\boost-1_64\boost/bind/placeholders.hpp(46): note: see reference to class template instantiation 'boost::arg<1>' being compiled
+  Generating code
+  15 of 2494 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    49 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ArashLibrary.vcxproj -> D:\MyGit\Normal-Curvature-Estimator\x64\Release\normal_curvature_estimator.exe
+  ArashLibrary.vcxproj -> D:\MyGit\Normal-Curvature-Estimator\x64\Release\normal_curvature_estimator.pdb (Full PDB)
